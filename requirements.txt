@@ -1,0 +1,5 @@
+streamlit
+openai
+git+https://github.com/chrislatimer/microagent.git
+duckduckgo_search
+python-dotenv
